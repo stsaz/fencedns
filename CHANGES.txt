@@ -1,0 +1,18 @@
+# fencedns History
+
+ "+" - new feature
+ "*" - change, update or a small improvement
+ "-" - bugfix
+ "!" - broken compatibility
+
+
+fencedns v0.1 - Dec 1, 2020
+
+ + DNS server
+ + upstream server list
+ + block domains
+ + rewrite domains to IP
+ + auto-refresh hosts from local files, if they are modified
+ + block AAAA requests
+ + cache
+ + logs
